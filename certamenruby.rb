@@ -41,6 +41,7 @@ def aprobados
 end
 end
 
+
 condicion = 0
 while condicion != 4
 puts 'Ingresa una opcion'
